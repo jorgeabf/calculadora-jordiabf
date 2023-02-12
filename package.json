@@ -1,0 +1,20 @@
+{
+  "name": "calculadora-jordiabf",
+  "version": "1.0.0",
+  "description": "Calculadora de prueba para sumar 2 números.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "calculadora",
+    "sumar"
+  ],
+  "author": "JorgeAbf",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
