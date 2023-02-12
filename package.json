@@ -1,7 +1,7 @@
 {
   "name": "calculadora-jordiabf",
-  "version": "1.0.1",
-  "description": "Calculadora de prueba para sumar 2 números.",
+  "version": "1.0.2",
+  "description": "Calculadora que imprime en consola la suma de indefinidos números.",
   "main": "index.js",
   "type": "module",
   "scripts": {
