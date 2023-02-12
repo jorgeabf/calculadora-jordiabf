@@ -1,6 +1,6 @@
 {
   "name": "calculadora-jordiabf",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculadora de prueba para sumar 2 números.",
   "main": "index.js",
   "type": "module",
@@ -14,6 +14,11 @@
   ],
   "author": "JorgeAbf",
   "license": "ISC",
+  "homepage": "https://github.com/jorgeabf/calculadora-jordiabf",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jorgeabf/calculadora-jordiabf"
+  },
   "devDependencies": {
     "nodemon": "^2.0.20"
   }
