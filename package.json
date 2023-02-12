@@ -1,6 +1,6 @@
 {
   "name": "calculadora-jordiabf",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Calculadora que imprime en consola la suma de indefinidos números.",
   "main": "index.js",
   "type": "module",
